@@ -1,0 +1,97 @@
+{
+    "documentos": [
+        {
+            "cdTipoDocumento": 6,
+            "dsDocumento": "Registro Geral com CPF",
+            "tipoDocumentoVDD": "identificacao"
+        }
+    ],
+    "doencasUsuarioT": [],
+    "valuesPerUser": {
+        "users": [
+            {
+                "age": 23,
+                "tipoUsuario": "titular",
+                "valorBruto": 104.07,
+                "valueAmount": 104.07
+            },
+            {
+                "age": 23,
+                "tipoUsuario": "dependente",
+                "valorBruto": 104.07,
+                "valueAmount": 104.07
+            }
+        ],
+        "typeId": 2
+    },
+    "valuesPerUserBruto": [        
+        {
+            "age": 23,
+            "tipoUsuario": "titular",
+            "planoBase": 8730,
+            "valorBruto": 104.07,
+            "valueAmount": 104.07
+        }
+    ],
+    "criticas": [],
+    "desCriticas": [],
+    "declaro1": false,
+    "declaro2": false,
+    "cdConcessionaria": "900",
+    "cdEstCivil": "1",
+    "cdFilial": "001",
+    "cdVendedor": 1818546,
+    "dadosEnderecoPreenchidos": true,
+    "dadosPessoaisPreenchidos": true,
+    "dsAltura": "1.80",
+    "dsPeso": "80",
+    "cdCep": "60010010",
+    "nmBairro": "MOURA BRASIL",
+    "nuEndereco": 643,
+    "nmLogradouro": "SENADOR JAGUARIBE",
+    "cdUfEndereco": "CE",
+    "nmCidadeEndereco": "FORTALEZA",
+    "localidade": "FORTALEZA",
+    "dsComplemento": null,
+    "dsPontoReferencia": null,
+    "dsAcomodacao": "SEM ACOMODACAO",
+    "dsMail": "dev@script.com",
+    "dsSenhaSMS": "GUIKJNVC",
+    "dtDigitacao": "10/08/2022",
+    "dtNascimento": "11/03/1999",
+    "dtNascimentoConvertida": "1999-03-11T03:00:00.000Z",
+    "enderecoDocumentosPreenchido": true,
+    "flCarencia": "S",
+    "cdTipoLogradouro": "R",
+    "cdCarteira": "",
+    "cdUsuarioCarencia": "",
+    "dtInicioConvenio": "",
+    "dtUltimoBoletoConvenio": "",
+    "flCompraPreexistencia": "",
+    "nuIdentidade": "066.232.290-86",
+    "cdDocumentoIdentificacao": 6,
+    "dsDocumentoIdentificacao": "Registro Geral com CPF",
+    "nmOrgaoExpedidor": "SSP",
+    "orgaoEmissor": "SSP",
+    "cdUfOrgaoExpedidor": "PI",
+    "nuTelefone": "",
+    "flSexo": "M",
+    "idade": 23,
+    "identificacaoPreenchido": true,
+    "nmMae": "maria dev da silva",
+    "nome": "script dev",
+    "nomeDocumento": "Registro Geral com CPF",
+    "nuCelular": "85991324878",
+    "nuCpf": "06623229086",
+    "nuMatricula": 2365772,
+    "nuOrcamento": 2365772,
+    "nuRegPlanoANS": "484253197",
+    "tipoNomeTitular": "Titular",
+    "cdPlano": 8730,
+    "vlMensalidade": "104.07",
+    "vlOdontologia": 2.51,
+    "cdDesconto": 59,
+    "tpUsuario": "2",
+    "ufSelecionada": 6,
+    "nuRegistroPessoaNatural": ""
+}

@@ -1,0 +1,348 @@
+
+=========== LOG 11/08/2022 10:52:27 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: RUILKAPC
+dtCriacao: 11/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: RUILKAPC.
+nuControle: 31876184
+nuOrcamento: 2365809
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ === Anexo TITULAR enviado com sucesso! === 
+Ocorreu um erro ao tentar incluir anexo.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Dependente enviado com sucesso! === 
+2278
+ === Envio de condições de saúde === 
+Condições de saúde salvas com sucesso!
+ === Condições de saude GET === 
+Found matching route: http://api-hapvida.sensedia.com/homologacao/wsvendadireta/beneficiarios/titulares/31876184 => without destination
+ *** ERROR ***
+'Orcamento' object has no attribute 'dtNascimento'
+
+=========== LOG 11/08/2022 10:53:55 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: SUILKCJC
+dtCriacao: 11/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: SUILKCJC.
+nuControle: 31876185
+nuOrcamento: 2365810
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Dependente enviado com sucesso! === 
+2279
+ === Envio de condições de saúde === 
+Condições de saúde salvas com sucesso!
+ === Condições de saude GET === 
+Found matching route: http://api-hapvida.sensedia.com/homologacao/wsvendadireta/saude/31876185 => without destination
+ *** ERROR ***
+log_totalizaPlano() takes 2 positional arguments but 3 were given
+
+=========== LOG 11/08/2022 10:54:46 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: TUILKDAC
+dtCriacao: 11/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: TUILKDAC.
+nuControle: 31876186
+nuOrcamento: 2365811
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Dependente enviado com sucesso! === 
+2280
+ === Envio de condições de saúde === 
+Condições de saúde salvas com sucesso!
+ === Condições de saude GET === 
+[]
+ === Envio TotalizaPlano === 
+ *** ERROR ***
+unsupported operand type(s) for +: 'dict' and 'str'
+
+=========== LOG 11/08/2022 10:55:26 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: UUILKDOC
+dtCriacao: 11/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: UUILKDOC.
+nuControle: 31876187
+nuOrcamento: 2365812
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Dependente enviado com sucesso! === 
+2281
+ === Envio de condições de saúde === 
+Condições de saúde salvas com sucesso!
+ === Condições de saude GET === 
+[]
+
+=========== LOG 11/08/2022 10:57:08 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: VUILKFWC
+dtCriacao: 11/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: VUILKFWC.
+nuControle: 31876188
+nuOrcamento: 2365813
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Dependente enviado com sucesso! === 
+2282
+ === Envio de condições de saúde === 
+Condições de saúde salvas com sucesso!
+ === Condições de saude GET === 
+[]
+ === Envio TotalizaPlano === 
+Enviado com sucesso
+
+=========== LOG 11/08/2022 11:01:12 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: WUILLBAC
+dtCriacao: 11/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: WUILLBAC.
+nuControle: 31876189
+nuOrcamento: 2365814
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Error forwarding call to back-end server
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Dependente enviado com sucesso! === 
+2283
+ === Envio de condicoes de saúde === 
+Condições de saúde salvas com sucesso!
+ === Condicoes de saude GET === 
+[]
+ === Envio TotalizaPlano === 
+Enviado com sucesso
+ === Envio TotalizaPlano === 
+Orçamento atualizado com sucesso.
+
+=========== LOG 11/08/2022 11:06:15 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: XUILLGDC
+dtCriacao: 11/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: XUILLGDC.
+nuControle: 31876190
+nuOrcamento: 2365815
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Dependente enviado com sucesso! === 
+2284
+ === Envio de condicoes de saúde === 
+Condições de saúde salvas com sucesso!
+ === Condicoes de saude GET === 
+[]
+ === Envio TotalizaPlano === 
+Enviado com sucesso
+ === Envio TotalizaPlano === 
+Orçamento atualizado com sucesso.
+
+=========== LOG 11/08/2022 11:07:10 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: YUILLHYC
+dtCriacao: 11/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: YUILLHYC.
+nuControle: 31876191
+nuOrcamento: 2365816
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Dependente enviado com sucesso! === 
+2285
+ === Envio de condicoes de saúde === 
+Condições de saúde salvas com sucesso!
+ === Condicoes de saude GET === 
+[]
+ === Envio TotalizaPlano === 
+Enviado com sucesso
+ === Envio TotalizaPlano === 
+Orçamento atualizado com sucesso.
+ === Envio de Criticas POST === 
+N
+ *** ERROR ***
+'Logger' object has no attribute 'log_criticasPost'
+
+=========== LOG 11/08/2022 11:07:57 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: ZUILLIKC
+dtCriacao: 11/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: ZUILLIKC.
+nuControle: 31876192
+nuOrcamento: 2365817
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Dependente enviado com sucesso! === 
+2286
+ === Envio de condicoes de saúde === 
+Condições de saúde salvas com sucesso!
+ === Condicoes de saude GET === 
+[]
+ === Envio TotalizaPlano === 
+Enviado com sucesso
+ === Envio TotalizaPlano === 
+Orçamento atualizado com sucesso.
+ === Envio de Divergências Neoway === 
+SUCESSO
+ === Envio de Criticas POST === 
+SUCESSO

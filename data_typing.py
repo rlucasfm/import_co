@@ -1,0 +1,10 @@
+class OrcamentoLog:
+    cdVendedor: str
+    cpfTitular: str
+    cdFilial: str
+    cdSenha: str
+    dtCriacao: str
+    mensagem: str
+    nuControle: str
+    nuOrcamento: str
+    tipo: str

@@ -1,0 +1,170 @@
+
+=========== LOG 10/08/2022 11:02:11 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: VUIKLCVC
+dtCriacao: 10/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: VUIKLCVC.
+nuControle: 31872809
+nuOrcamento: 2365787
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ *** ERROR ***
+'Dependente' object has no attribute 'base_url'
+
+=========== LOG 10/08/2022 11:02:33 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: WUIKLCRC
+dtCriacao: 10/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: WUIKLCRC.
+nuControle: 31872810
+nuOrcamento: 2365788
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ === Dependente enviado com sucesso! === 
+1919
+
+=========== LOG 10/08/2022 11:25:13 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: ZUIKLZWC
+dtCriacao: 10/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: ZUIKLZWC.
+nuControle: 31872813
+nuOrcamento: 2365791
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ === Anexo enviado com sucesso! === 
+ *** ERROR ***
+unsupported operand type(s) for +: 'NoneType' and 'str'
+ === Dependente enviado com sucesso! === 
+1921
+
+=========== LOG 10/08/2022 11:30:25 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: DUIKLEJC
+dtCriacao: 10/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: DUIKLEJC.
+nuControle: 31872817
+nuOrcamento: 2365795
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ === Anexo enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Dependente enviado com sucesso! === 
+1922
+
+=========== LOG 10/08/2022 11:44:23 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: FUIKLSHC
+dtCriacao: 10/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: FUIKLSHC.
+nuControle: 31872819
+nuOrcamento: 2365797
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ === Anexo enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Dependente enviado com sucesso! === 
+1923
+
+=========== LOG 10/08/2022 11:50:45 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: GUIKLYCC
+dtCriacao: 10/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: GUIKLYCC.
+nuControle: 31872820
+nuOrcamento: 2365798
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Dependente enviado com sucesso! === 
+1924
+
+=========== LOG 10/08/2022 12:07:31 ===========
+Orçamento Gerado - CPF 06623229086
+cdVendedor: 1818546
+cdFilial: 001
+cdSenha: IUIKMHPC
+dtCriacao: 10/08/2022
+mensagem: Proposta associada com sucesso! A senha do orçamento é: IUIKMHPC.
+nuControle: 31872822
+nuOrcamento: 2365800
+tipo: SUCESSO
+ === Titular enviado com sucesso! === 
+Gravado com sucesso!
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo TITULAR enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Anexo DEPENDENTE enviado com sucesso! === 
+Documento enviado com sucesso.
+ === Dependente enviado com sucesso! === 
+1926
+ === Envio de condições de saúde === 
+Condições de saúde salvas com sucesso!

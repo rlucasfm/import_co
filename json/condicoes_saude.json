@@ -1,0 +1,30 @@
+[    
+    {
+        "cdGrupo": 1,
+        "dsEspecificacao": "todos",
+        "flGrupo": "S",
+        "nuControle": 31872793,
+        "nuControleDep": "0"
+    },
+    {
+        "cdGrupo": 2,
+        "dsEspecificacao": "titular",
+        "flGrupo": "S",
+        "nuControle": 31872793,
+        "nuControleDep": "0"
+    },    
+    {
+        "cdGrupo": 1,
+        "dsEspecificacao": "todos dep",
+        "flGrupo": "S",
+        "nuControle": 31872793,
+        "nuControleDep": "1916"
+    },
+    {
+        "cdGrupo": 3,
+        "dsEspecificacao": "dep",
+        "flGrupo": "S",
+        "nuControle": 31872793,
+        "nuControleDep": "1916"
+    }
+]
